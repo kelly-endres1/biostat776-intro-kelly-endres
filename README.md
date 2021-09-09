@@ -16,9 +16,6 @@ Fun Facts
 -----------
 
 * My family keeps honeybees in our backyard in Minnesota and we just won a ribbon at the Minnesota State Fair for our honey!
-
-![Odin](Users/kelly/OneDrive/Documents/Graduate School/Outbreak Epi/biostat776-intro-kelly-endres/odin_pic.jpg)
-
 * I love outdoors activities, especially bouldering. There's a great bouldering gym up in Hampden that I highly recommend.
 * In college a spent a week hiking the AT in Georgia and hope to spend a weekend hiking the part of the AT that goes through Maryland.
 * My partner and I adopted a husky puppy this summer named Odin. He's the best but is also driving us crazy.
