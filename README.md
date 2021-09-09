@@ -1,2 +1,25 @@
 # biostat776-intro-kelly-endres
-Personal introduction for biostats 776
+
+**Kelly Endres Introduction for biostats 776**
+
+Background
+-----------
+
+Hi everyone! My name is Kelly and I'm a second year student in the Global Disease Epidemiology and Control program through the Department of International Health. I'm originally from Minnesota, and while I miss home I enjoy the winters here in Baltimore more. I went to undergrad at Emory in Atlanta, graduating in 2019 with majors in Environmental Science and Biological Anthropology. I then moved back to Minnesota for a year to work as the Opioid Response Project Coordinator with the Minnesota Department of Corrections through AmeriCorps. I've been living in Baltimore for about a year now and absolutely love it.
+
+Academic and research interests
+-------------
+
+I'm coming to public health from a background in ecology, where I spent a lot of time using R and only learned enough about GitHub to become extremely confused! My main interests are WASH and the impact of climate change on infectious diseases. With this class I'm hoping to gain experience with computational methods - even though it won't be the main focus of my work I think these skills are becoming increasingly important. 
+
+Fun Facts 
+-----------
+
+* My family keeps honeybees in our backyard in Minnesota and we just won a blue ribbon at the Minnesota State Fair for our honey!
+* I love outdoors activities, especially bouldering. There's a great bouldering gym up in Hampden that I highly recommend.
+* In college a spent a week hiking the AT in Georgia and hope to spend a weekend hiking the part of the AT that goes through Maryland.
+* My partner and I adopted a husky puppy this summer named Odin. He's the best but is also driving us crazy.
+* One of my favorite hobbies is reading but grad school has an annoying way to getting in the way of that.
+
+
+
