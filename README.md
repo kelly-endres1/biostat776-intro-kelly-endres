@@ -1,6 +1,6 @@
 # biostat776-intro-kelly-endres
 
-**Kelly Endres Introduction for biostats 776**
+**Kelly Endres introduction for biostats 776**
 
 Background
 -----------
@@ -15,11 +15,16 @@ I'm coming to public health from a background in ecology, where I spent a lot of
 Fun Facts 
 -----------
 
-* My family keeps honeybees in our backyard in Minnesota and we just won a blue ribbon at the Minnesota State Fair for our honey!
+* My family keeps honeybees in our backyard in Minnesota and we just won a ribbon at the Minnesota State Fair for our honey!
+![Odin](C:/Users/kelly/OneDrive/Documents/Graduate School/Outbreak Epi/biostat776-intro-kelly-endres/odin_pic.jpg)
 * I love outdoors activities, especially bouldering. There's a great bouldering gym up in Hampden that I highly recommend.
 * In college a spent a week hiking the AT in Georgia and hope to spend a weekend hiking the part of the AT that goes through Maryland.
 * My partner and I adopted a husky puppy this summer named Odin. He's the best but is also driving us crazy.
 * One of my favorite hobbies is reading but grad school has an annoying way to getting in the way of that.
 
+Interesting webpage 
+------------
+
+I wasn't sure what to put for this, but this https://appalachiantrail.org/explore/explore-by-state/maryland/ is the webpage for the Appalachian Trial in Maryland that I want to hike. Seems like a good way to get away from our computers for a bit. 
 
 
